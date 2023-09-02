@@ -4,3 +4,4 @@
 3.You'll also need Freeglut with Codeblocks
 4.The main file has the code-(open with Notepad to directly access the code)
 5.The test file is the audio file and you can see in the main file that the audio is implemented inside the main() method
+6. Developed completely using C language
